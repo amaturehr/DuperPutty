@@ -10,6 +10,6 @@ Example:
 ```
 ![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif1.gif)
 
-Switching tabas can be done using F4:
+Switching Tabs can be done using F4:
 
 ![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif2.gif)
