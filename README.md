@@ -23,6 +23,11 @@ This is a Linux only script.  It could work on MacOS or on Windows with WSL but 
 
 ### Prerequisites
 - This requires TMUX and Byobu be installed.
+
+```
+sudo apt install byobu
+```
+
 - The reason for byobu is its simplified key bindings and general nicer ease of use (in my opinion).
 
 ### Example:
