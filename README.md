@@ -1,5 +1,4 @@
-### >_
-### DuperPutty
+### >_ DuperPutty
 This is a bash shell script that can give a multiplexing experience similar to that of the Windows tool "SuperPutty".  This could be useful if you need to ssh to many hosts at once.  You do not need to maintain a hostlist file, you can easily paste in a list of hosts for more ad hoc type scenarios.
 
 ### Installing
