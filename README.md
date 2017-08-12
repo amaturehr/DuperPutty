@@ -25,3 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Acknowledgments
 * This is based off the work done by linuxpixie
 * http://linuxpixies.blogspot.jp/2011/06/tmux-copy-mode-and-how-to-control.html
+* Thanks for the existance of tmux and byobu as well amazing tools
