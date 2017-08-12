@@ -22,7 +22,7 @@ Please don't blindly run the above, only do so if the idea of this script sounds
 This is a Linux only script.  It could work on MacOS or on Windows with WSL but I have not tried, or have the desire to.
 
 ### Prerequisites
-- This requires TMUX and Byobu be installed.
+- This requires TMUX and Byobu be installed.  Typically installing byobu pulls in tmux as a dependency 
 
 ```
 sudo apt install byobu
