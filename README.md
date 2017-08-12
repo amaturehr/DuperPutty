@@ -7,3 +7,5 @@ This is a bash shell script that can give a multiplexing experience similar to t
 Example:
 
 ./DupperPutty.sh <session_name> <username> 'HOST1 HOST2 HOST3'
+
+![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif1.gif)
