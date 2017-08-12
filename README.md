@@ -18,6 +18,9 @@ Switching Tabs can be done using F4:
 
 ![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif2.gif)
 
+Sending commands to all panes done using CTL+F9:
+![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif3.gif)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/amaturehr/DuperPutty/blob/master/LICENSE) file for details
