@@ -2,7 +2,22 @@
 This is a bash shell script that can give a multiplexing experience similar to that of the Windows tool "SuperPutty".  This could be useful if you need to ssh to many hosts at once.  You do not need to maintain a hostlist file, you can easily paste in a list of hosts for more ad hoc type scenarios.
 
 ### Installing
-This is a shell script so you can git clone to pull it down, or simply download just the DuperPutty.sh script.  This is a Linux only script.  It could work on MacOS or on Windows with WSL but I have not tried, or have the desire to.
+This is a shell script so no need to install, simply download just the DuperPutty.sh script.  However for a more "intergrated" experience, you could grab it doing the following:
+
+Using CURL:
+```
+sudo curl -L https://github.com/amaturehr/DuperPutty/raw/master/DuperPutty.sh -o /usr/local/bin/DuperPutty
+sudo chmod a+rx /usr/local/bin/DuperPutty
+```
+Using WGET:
+
+```
+sudo wget https://github.com/amaturehr/DuperPutty/raw/master/DuperPutty.sh -O  /usr/local/bin/DuperPutty
+sudo chmod a+rx /usr/local/bin/DuperPutty
+```
+Please don't blindly run the above, only do so if the idea of this script sounds useful and you would like it easily available in your path as a "standard" command.
+
+This is a Linux only script.  It could work on MacOS or on Windows with WSL but I have not tried, or have the desire to.
 
 ### Prerequisites
 - This requires TMUX and Byobu be installed.
