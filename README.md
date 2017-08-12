@@ -8,7 +8,8 @@ This is a shell script so you can git clone to pull it down, or simply download 
 - This requires TMUX and Byobu be installed.
 - The reason for byobu is its simplified key bindings and general nicer ease of use (in my opinion).
 
-Example:
+### Example:
+
 ```
 ./DupperPutty.sh <session_name> <username> 'HOST1 HOST2 HOST3'
 ```
@@ -19,6 +20,7 @@ Switching Tabs can be done using F4:
 ![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif2.gif)
 
 Sending commands to all panes done using CTL+F9:
+
 ![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif3.gif)
 
 
