@@ -28,6 +28,5 @@ Sending commands to all panes done using CTL+F9:
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/amaturehr/DuperPutty/blob/master/LICENSE) file for details
 
 ## Acknowledgments
-* This is based off the work done by linuxpixie
-* http://linuxpixies.blogspot.jp/2011/06/tmux-copy-mode-and-how-to-control.html
+* This is based off the work done by linuxpixie: http://linuxpixies.blogspot.jp/2011/06/tmux-copy-mode-and-how-to-control.html
 * Thanks for the existance of tmux and byobu as well amazing tools
