@@ -1,10 +1,12 @@
 ### DuperPutty>_ 
 ![proj_icon](https://www.shareicon.net/download/48x48/2016/07/15/618380_command_320x320.png)
 
-This is a bash shell script that can give a multiplexing experience similar to that of the Windows tool "SuperPutty".  This could be useful if you need to ssh to many hosts at once.  You do not need to maintain a hostlist file, you can easily paste in a list of hosts for more ad hoc type scenarios.
+This is a bash shell script that can give a multiplexing experience similar to that of the Windows tool "SuperPutty".  This could be useful if you need to ssh to many hosts at once.  You do not need to maintain a hostlist file, you can easily paste in a list of hosts for more ad hoc type scenarios. 
+
+While tmux/byobu by themselves provide great multiplexing, this was helpful for me to be able to easily ssh to many hosts and send commands to all.  This is no replacement for tools like ansible (which allows you to pretty easily issue command across many hosts), or tools like clusterssh and other cluster tools, but it may just fit the in-between scenarios of ad hoc multiplexing.
 
 ### Installing
-This is a shell script so no need to install, simply download just the DuperPutty.sh script.  However for a more "intergrated" experience, you could grab it doing the following:
+This is a shell script so no need to install, simply download just the DuperPutty.sh script.  However for a more "integrated" experience, you could grab it doing the following:
 
 Using CURL:
 ```
