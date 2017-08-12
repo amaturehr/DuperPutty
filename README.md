@@ -20,7 +20,7 @@ Switching Tabs can be done using F4:
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/amaturehr/DuperPutty/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 * This is based off the work done by linuxpixie
