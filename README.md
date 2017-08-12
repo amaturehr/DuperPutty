@@ -39,7 +39,7 @@ sudo apt install byobu
 ```
 ![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif1.gif)
 
-Switching Tabs can be done using F4:
+Switching Tabs can be done using F3/F4 keys. F4 to go forward, F3 to go back:
 
 ![Syntax Example](https://github.com/amaturehr/DuperPutty/blob/master/.gifs/gif2.gif)
 
